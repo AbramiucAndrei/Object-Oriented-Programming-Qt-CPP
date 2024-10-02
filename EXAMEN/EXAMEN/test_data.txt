@@ -1,0 +1,10 @@
+3;Web;Mihai,Andrei,Raluca;closed
+4;New_game;Eu;closed
+7;Web2;Andrei,Mihai;closed
+10;Name_App_2;Tu,Andrei_Cristian;closed
+2;Game;Andrei-Marian,Gelu,Rares;inprogress
+6;New_web;Tu,Eu;inprogress
+8;Denumire_joc_nou;Andrei_Cristian,Obreja,Andrei-Marian;inprogress
+1;App;Ion,Mihai,Andrei-Marian;open
+5;PHP;Ion,Matei,Dani,Eu;open
+9;Joc;Tu;open
