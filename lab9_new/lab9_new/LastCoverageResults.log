@@ -1,0 +1,21 @@
+[2024-05-28 08:40:15] [info] Start Program:
+Path:"C:\_Local Disk D\oop\lab9_new\x64\Debug\lab9_new.exe"
+Arguments:
+Working directory: "C:\_Local Disk D\oop\lab9_new\lab9_new\"
+Modules: Selected: C:\_Local Disk D\oop\lab9_new\x64\Debug\lab9_new.exe Excluded: 
+Sources: Selected: C:\_Local Disk D\oop\lab9_new\lab9_new Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\admin\AppData\Local\Temp\k1vf04qw.uer 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2024-05-28 08:40:15] [info] Module: C:\_Local Disk D\oop\lab9_new\x64\Debug\lab9_new.exe is selected because it matches selected pattern: C:\_Local Disk D\oop\lab9_new\x64\Debug\lab9_new.exe
+[2024-05-28 08:40:15] [info] ----------------------------------------------------
+[2024-05-28 08:40:15] [info] Coverage binary generated in file: C:\Users\admin\AppData\Local\Temp\k1vf04qw.uer
+[2024-05-28 08:40:15] [info] ----------------------------------------------------

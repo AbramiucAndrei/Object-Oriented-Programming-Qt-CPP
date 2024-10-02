@@ -1,0 +1,371 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\_Local Disk D\\oop\\lab9_new\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|solutionrelative:lab9_new\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\Repository2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|solutionrelative:lab9_new\\Repository2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\Repository2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|solutionrelative:lab9_new\\Repository2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\RepoFile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|solutionrelative:lab9_new\\RepoFile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\Repository1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|solutionrelative:lab9_new\\Repository1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\Repository.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|solutionrelative:lab9_new\\Repository.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\Service.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|solutionrelative:lab9_new\\Service.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|solutionrelative:lab9_new\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\RepoFile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|solutionrelative:lab9_new\\RepoFile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\test_file_repo2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|solutionrelative:lab9_new\\test_file_repo2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\Repository1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|solutionrelative:lab9_new\\Repository1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\test_file_repo.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|solutionrelative:lab9_new\\test_file_repo.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\date.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|solutionrelative:lab9_new\\date.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\Test.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|solutionrelative:lab9_new\\Test.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\repoReteta.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|solutionrelative:lab9_new\\repoReteta.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\repoReteta.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|solutionrelative:lab9_new\\repoReteta.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\Service.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|solutionrelative:lab9_new\\Service.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\repoException.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|solutionrelative:lab9_new\\repoException.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\Console.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|solutionrelative:lab9_new\\Console.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\undo.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E364418-662E-4F53-B0A3-6EF95ADBC630}|lab9_new\\lab9_new.vcxproj|solutionrelative:lab9_new\\undo.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "test_file_repo2.txt",
+              "DocumentMoniker": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\test_file_repo2.txt",
+              "RelativeDocumentMoniker": "lab9_new\\test_file_repo2.txt",
+              "ToolTip": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\test_file_repo2.txt",
+              "RelativeToolTip": "lab9_new\\test_file_repo2.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-28T05:33:54.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "test_file_repo.txt",
+              "DocumentMoniker": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\test_file_repo.txt",
+              "RelativeDocumentMoniker": "lab9_new\\test_file_repo.txt",
+              "ToolTip": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\test_file_repo.txt",
+              "RelativeToolTip": "lab9_new\\test_file_repo.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-28T05:20:13.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "date.txt",
+              "DocumentMoniker": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\date.txt",
+              "RelativeDocumentMoniker": "lab9_new\\date.txt",
+              "ToolTip": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\date.txt",
+              "RelativeToolTip": "lab9_new\\date.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-19T17:30:26.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RepoFile.cpp",
+              "DocumentMoniker": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\RepoFile.cpp",
+              "RelativeDocumentMoniker": "lab9_new\\RepoFile.cpp",
+              "ToolTip": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\RepoFile.cpp",
+              "RelativeToolTip": "lab9_new\\RepoFile.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-19T16:06:36.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\main.cpp",
+              "RelativeDocumentMoniker": "lab9_new\\main.cpp",
+              "ToolTip": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\main.cpp",
+              "RelativeToolTip": "lab9_new\\main.cpp",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-17T15:52:34.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository2.h",
+              "DocumentMoniker": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\Repository2.h",
+              "RelativeDocumentMoniker": "lab9_new\\Repository2.h",
+              "ToolTip": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\Repository2.h",
+              "RelativeToolTip": "lab9_new\\Repository2.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-17T16:57:46.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Service.cpp",
+              "DocumentMoniker": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\Service.cpp",
+              "RelativeDocumentMoniker": "lab9_new\\Service.cpp",
+              "ToolTip": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\Service.cpp",
+              "RelativeToolTip": "lab9_new\\Service.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAASwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-17T15:53:10.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "repoException.h",
+              "DocumentMoniker": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\repoException.h",
+              "RelativeDocumentMoniker": "lab9_new\\repoException.h",
+              "ToolTip": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\repoException.h",
+              "RelativeToolTip": "lab9_new\\repoException.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-17T16:08:10.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository2.cpp",
+              "DocumentMoniker": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\Repository2.cpp",
+              "RelativeDocumentMoniker": "lab9_new\\Repository2.cpp",
+              "ToolTip": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\Repository2.cpp",
+              "RelativeToolTip": "lab9_new\\Repository2.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAAqwD4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-17T18:14:58.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Test.cpp",
+              "DocumentMoniker": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\Test.cpp",
+              "RelativeDocumentMoniker": "lab9_new\\Test.cpp",
+              "ToolTip": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\Test.cpp",
+              "RelativeToolTip": "lab9_new\\Test.cpp",
+              "ViewState": "AQIAANgAAAAAAAAAAAAAANoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-17T16:06:21.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Repository1.cpp",
+              "DocumentMoniker": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\Repository1.cpp",
+              "RelativeDocumentMoniker": "lab9_new\\Repository1.cpp",
+              "ToolTip": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\Repository1.cpp",
+              "RelativeToolTip": "lab9_new\\Repository1.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAASwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-17T18:14:44.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Console.hpp",
+              "DocumentMoniker": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\Console.hpp",
+              "RelativeDocumentMoniker": "lab9_new\\Console.hpp",
+              "ToolTip": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\Console.hpp",
+              "RelativeToolTip": "lab9_new\\Console.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-19T17:04:00.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repository.hpp",
+              "DocumentMoniker": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\Repository.hpp",
+              "RelativeDocumentMoniker": "lab9_new\\Repository.hpp",
+              "ToolTip": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\Repository.hpp",
+              "RelativeToolTip": "lab9_new\\Repository.hpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-17T15:52:59.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Service.hpp",
+              "DocumentMoniker": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\Service.hpp",
+              "RelativeDocumentMoniker": "lab9_new\\Service.hpp",
+              "ToolTip": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\Service.hpp",
+              "RelativeToolTip": "lab9_new\\Service.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-17T15:53:07.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Test.hpp",
+              "DocumentMoniker": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\Test.hpp",
+              "RelativeDocumentMoniker": "lab9_new\\Test.hpp",
+              "ToolTip": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\Test.hpp",
+              "RelativeToolTip": "lab9_new\\Test.hpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-17T16:45:04.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepoFile.h",
+              "DocumentMoniker": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\RepoFile.h",
+              "RelativeDocumentMoniker": "lab9_new\\RepoFile.h",
+              "ToolTip": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\RepoFile.h",
+              "RelativeToolTip": "lab9_new\\RepoFile.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-19T16:04:37.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repository1.h",
+              "DocumentMoniker": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\Repository1.h",
+              "RelativeDocumentMoniker": "lab9_new\\Repository1.h",
+              "ToolTip": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\Repository1.h",
+              "RelativeToolTip": "lab9_new\\Repository1.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-17T16:10:12.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "repoReteta.cpp",
+              "DocumentMoniker": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\repoReteta.cpp",
+              "RelativeDocumentMoniker": "lab9_new\\repoReteta.cpp",
+              "ToolTip": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\repoReteta.cpp",
+              "RelativeToolTip": "lab9_new\\repoReteta.cpp",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAEoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-17T16:28:41.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "repoReteta.hpp",
+              "DocumentMoniker": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\repoReteta.hpp",
+              "RelativeDocumentMoniker": "lab9_new\\repoReteta.hpp",
+              "ToolTip": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\repoReteta.hpp",
+              "RelativeToolTip": "lab9_new\\repoReteta.hpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-17T16:29:36.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "undo.hpp",
+              "DocumentMoniker": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\undo.hpp",
+              "RelativeDocumentMoniker": "lab9_new\\undo.hpp",
+              "ToolTip": "C:\\_Local Disk D\\oop\\lab9_new\\lab9_new\\undo.hpp",
+              "RelativeToolTip": "lab9_new\\undo.hpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAcwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-17T16:04:45.144Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
