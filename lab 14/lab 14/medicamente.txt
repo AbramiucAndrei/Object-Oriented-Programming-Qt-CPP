@@ -1,0 +1,7 @@
+Paracetamol,Catena,ASDAS,44
+VitaminaC,Catena,Vitamine,13
+Aspacardin,Catena,Lalal,15
+Extraveral,DucFarm,Lalal,21
+Nurofen,HelpNet,Ibuprofen,12
+Coldrex,DrMax,Ibuprofen,25
+ASDSA,ASD,SADa,13
